@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1728398775 source:c:\users\hafiz fahrial\onedrive - telkom university\semester 3\struktur data\tugas kelompok\main\main.cpp
+	<iostream>
+	"SLL.h"
+
+1728397777 c:\users\hafiz fahrial\onedrive - telkom university\semester 3\struktur data\tugas kelompok\main\sll.h
+	<iostream>
+
+1728399200 source:c:\users\hafiz fahrial\onedrive - telkom university\semester 3\struktur data\tugas kelompok\main\sll.cpp
+	<iostream>
+	"SLL.h"
+
